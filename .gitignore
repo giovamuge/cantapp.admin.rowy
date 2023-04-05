@@ -32,3 +32,5 @@ firebase-debug.log*
 
 .vercel
 typedoc/
+firebase-service-account.json
+set-user-roles.js
